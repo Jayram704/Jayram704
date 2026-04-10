@@ -1,8 +1,9 @@
-# 🚀 Jayram Thakur
+# 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&height=60&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+Production-Grade+Systems;PyTorch+%7C+React+%7C+FastAPI" alt="Typing animation" />
+</div>
 
-**Software Engineer | ML Specialist | Cloud Computing**
 
-Backend development • Cloud computing • Data-driven systems
 
 <div align="center">
   
