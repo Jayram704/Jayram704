@@ -1,316 +1,110 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=FF1493&center=true&width=800&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+Production-Grade+Systems;PyTorch+%7C+React+%7C+FastAPI" alt="Typing" />
-</div>
-<br/>
-<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=0078D4&center=true&width=800&lines=AI+%2F+ML+Engineer;OCI+Certified+Professional;Full-Stack+Developer;Building+Scalable+Intelligence" alt="Typing" />
 
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jayram-thakur-219414256/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:jayramthakur704@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-Call-green?style=for-the-badge&logo=phone)](tel:+917843032571)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/jayram704)
-
+  <p align="center">
+    <a href="https://www.linkedin.com/in/jayram-thakur-219414256/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:jayramthakur704@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/jayram704">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## 📊 My Stats
+## 👨‍💻 About Me
+**B.E. in Computer Engineering | AI & ML Specialization** *Theem College of Engineering (Graduating June 2026)*
 
-```
-Total Contributions:  [████████░░░░░░░░░░] Growing
-Current Streak:      [██████░░░░░░░░░░░░] Active
-Longest Streak:      Jan 2024 - Present
+I am a Software Engineer focused on the intersection of **Cloud Architecture** and **Applied AI**. With a strong foundation in **Reinforcement Learning (PPO, TD3)** and **Oracle Cloud Infrastructure**, I bridge the gap between complex model development and production-grade deployment.
 
-Language Proficiency:
-├─ Python           [██████████░░░░░░░░] 85%
-├─ Java             [████████░░░░░░░░░░] 75%
-├─ SQL              [██████████░░░░░░░░] 80%
-├─ JavaScript       [████████░░░░░░░░░░] 70%
-└─ Cloud (OCI)      [██████████░░░░░░░░] 90%
-```
+* 🔭 **Current Focus:** Scalable Multi-Agent Systems & Semantic Caching.
+* ⚡ **Philosophy:** Writing clean, modular code that scales from local environments to the cloud.
+* 🏅 **Distinction:** Top 10% of my academic cohort with a 7.5 SGPA.
 
 ---
 
-## 👨‍💼 About Me
+## 🛠️ Technical Ecosystem
 
-**B.E. Computer Engineering** | Theem College of Engineering, Palghar  
-**SGPA:** 7.5/10 | **Top 10% Cohort** | **Graduating:** June 2026
+### ☁️ Cloud & DevOps (Specialty)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-Software Engineer with strong foundations in **backend development**, **cloud computing**, and **data-driven systems**. Hands-on experience designing, developing, and deploying **scalable applications** using Python and Java.
+### 🤖 Artificial Intelligence & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-RL-green?style=flat-square)
 
-**Philosophy:** Clean code → Reliable systems → Scalable solutions
-
----
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-### **Backend & Languages**
-```
-Python    ████████░░ 85%  |  Java      ████████░░ 75%
-SQL       ████████░░ 80%  |  JavaScript ███████░░░ 70%
-HTML/CSS  ███████░░░ 75%  |  PHP       ██████░░░░ 65%
-```
-
-### **Cloud & DevOps**
-```
-Oracle Cloud (OCI)  ██████████ 90%
-Linux/Bash         ████████░░ 85%
-REST APIs          █████████░ 90%
-Microservices      ███████░░░ 75%
-```
-
-### **ML & Data**
-```
-scikit-learn  ████████░░ 80%
-OpenCV        ██████░░░░ 70%
-Streamlit     ███████░░░ 75%
-Data Analysis ████████░░ 80%
-```
-
-### **Tools & Frameworks**
-```
-Flask      ████████░░ 80%
-Git        ██████████ 95%
-Jupyter    ████████░░ 85%
-Docker     ███████░░░ 75%
-```
-
-</div>
+### 🌐 Full-Stack Development
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
 ## 💼 Professional Experience
 
-### **Software Engineering Intern** — SureTrust
-**Jul 2025 – Jan 2026**
+### **Software Engineering Intern** | SureTrust
+*Jul 2025 – Jan 2026*
+* **Backend Engineering:** Architected modular Python services and RESTful APIs using FastAPI.
+* **Data Visualization:** Developed real-time monitoring dashboards using Streamlit to visualize model metrics.
+* **Cloud Operations:** Streamlined deployment workflows, improving system uptime and reliability.
 
-```
-✓ Backend Python Services     ✓ API Development & Testing
-✓ Data Pipeline Architecture  ✓ Streamlit Dashboards
-✓ Performance Optimization    ✓ Code Reviews & Collaboration
-✓ Debugging & Logging         ✓ Cloud Deployment
-```
-
-**Key Contributions:**
-- Developed modular Python services for data processing
-- Designed and tested APIs for model execution
-- Built monitoring dashboards using Streamlit
-- Improved system reliability through debugging and logging
-
-### **McKinsey Forward Program** — Core Skills Participant
-**Oct 2025 – Nov 2025**
-
-```
-✓ Recognized as "Super Learner"
-✓ Problem-Solving & Analytics
-✓ Task Prioritization
-✓ Solution Communication
-```
+### **McKinsey Forward Program** | Participant
+*Oct 2025 – Nov 2025*
+* Earned the **"Super Learner"** badge for excellence in structured problem-solving and business communication.
 
 ---
 
 ## 🚀 Featured Projects
 
+### 📈 **RL Multi-Asset Stock Trader**
+*Deep Reinforcement Learning (TD3 / PPO) • Gymnasium • Pandas*
+* Built a custom trading environment for portfolio management across 30+ assets.
+* Implemented state-of-the-art RL agents to optimize risk-adjusted returns based on historical market data.
+
 ### 🔍 **Face Recognition Attendance System**
-**Sept 2025 – Oct 2025** | Python • OpenCV • scikit-learn • Streamlit
-
-```
-Status: ✅ COMPLETE
-Accuracy: 96.5%
-Deployment: Cloud-Ready
-```
-
-**Highlights:**
-- Real-time face recognition with 96.5% accuracy
-- End-to-end ML pipeline (ingestion → preprocessing → evaluation)
-- Cloud-deployed web interface for live tracking
-- Production-grade code with validation
-
-**Technologies:** Python, OpenCV, scikit-learn, Streamlit, Cloud
+*Python • OpenCV • scikit-learn • Streamlit*
+* Achieved **96.5% validation accuracy** using advanced preprocessing and feature extraction.
+* Deployed as a cloud-ready web application for real-time face tracking.
 
 ---
 
-### 🚗 **Car Rental System Website**
-**Jan 2024 – Feb 2024** | HTML • CSS • JavaScript • SQL • Python/PHP
-
-```
-Status: ✅ COMPLETE
-Features: Full-Stack
-Database: Relational (SQL)
-```
-
-**Highlights:**
-- Full-stack web application with authentication
-- Optimized database design with SQL queries
-- Booking workflow implementation
-- Scalability-ready architecture
-
-**Technologies:** Frontend (HTML/CSS/JS), Backend (Python/PHP), SQL
+## 📜 Certifications
+| Credential | Issuer |
+| :--- | :--- |
+| **OCI 2025 Generative AI Professional** | Oracle University |
+| **OCI 2025 Developer Professional** | Oracle University |
+| **OCI 2025 DevOps Professional** | Oracle University |
+| **OCI 2025 AI Foundations Associate** | Oracle University |
+| **One Million Prompters** | Dubai Future Foundation |
 
 ---
 
-## 🎓 Certifications & Qualifications
+## 📊 GitHub Analytics
 
-<div align="center">
-
-| Status | Certification | Issuer |
-|--------|---|---|
-| ✅ | OCI 2025 Certified AI Foundations Associate | Oracle University |
-| ✅ | OCI 2025 Developer Professional | Oracle University |
-| ✅ | OCI 2025 DevOps Professional | Oracle University |
-| ✅ | OCI 2025 Generative AI Professional | Oracle University |
-| ✅ | Data Science for Beginners | Board |
-| ✅ | One Million Prompters | Dubai Future Foundation |
-
-</div>
-
----
-
-## 🏆 Achievements & Highlights
-
-```
-Academic
-├─ Top 10% of Cohort (SGPA: 7.5/10)
-├─ Strong DSA Foundation
-└─ System Design Basics
-
-Professional
-├─ 4 Oracle Cloud Certifications
-├─ SureTrust Internship (6 months)
-├─ McKinsey Super Learner Badge
-└─ Production ML Project (96.5% accuracy)
-
-Competitions
-├─ 3rd Prize Hackathon Winner
-├─ Multiple Hackathon Participations
-└─ Innovation & Teamwork Recognition
-
-Community
-├─ NSS Volunteer (Beach Cleanups)
-├─ Health Camp Coordinator
-├─ Blood Donation Drives
-└─ Team Leadership & Logistics
-```
-
----
-
-## 📈 Development Stats
-
-```
-Year-Round Contribution Pattern:
-┌─────────────────────────────────┐
-│ Jan ████░░░░░░░░░░░░░░░░░░░░░ │
-│ Feb ███████░░░░░░░░░░░░░░░░░░░ │
-│ Mar ██████░░░░░░░░░░░░░░░░░░░░ │
-│ Apr ████░░░░░░░░░░░░░░░░░░░░░░ │
-│ May █████░░░░░░░░░░░░░░░░░░░░░ │
-│ Jun ████████░░░░░░░░░░░░░░░░░░ │
-│ Jul ███████░░░░░░░░░░░░░░░░░░░ │
-│ Aug ██████░░░░░░░░░░░░░░░░░░░░ │
-│ Sep ██████████░░░░░░░░░░░░░░░░ │
-│ Oct ████████░░░░░░░░░░░░░░░░░░ │
-│ Nov ██████░░░░░░░░░░░░░░░░░░░░ │
-│ Dec ███░░░░░░░░░░░░░░░░░░░░░░░ │
-└─────────────────────────────────┘
-
-Commit Frequency: Regular & Consistent
-Code Quality: Production-Grade
-```
-
----
-
-## 🎯 Currently Learning
-
-```
-🔬 Advanced System Design
-   → Building scalable distributed systems
-
-🚀 Cloud Architecture  
-   → Multi-cloud strategies with OCI focus
-
-💰 Data Engineering
-   → ETL pipelines & real-time processing
-
-🤖 ML Operations
-   → Model deployment & monitoring
-
-📊 Advanced Analytics
-   → Data-driven decision making
-```
-
----
-
-## 🤝 Community & Leadership
-
-```
-NSS Volunteer
-├─ Beach Cleanup Drives
-├─ Community Health Camps
-└─ Logistics Management
-
-Hackathons
-├─ 3rd Prize Winner
-├─ Innovation Recognition
-└─ Teamwork & Execution
-
-Volunteerism
-├─ Blood Donation Camps
-├─ Health Check-ups
-└─ Community Service
-```
-
----
-
-## 📞 Let's Connect
-
-<div align="center">
-
-**📧 Email:** jayramthakur704@gmail.com  
-**📱 Phone:** +91 78430 32571  
-**💼 LinkedIn:** [jayram-thakur-219414256](https://www.linkedin.com/in/jayram-thakur-219414256/)  
-**💻 GitHub:** [jayram704](https://github.com/jayram704)  
-
-</div>
-
----
-
-## 💡 Development Philosophy
-
-```
-Code Quality = Product Quality
-
-├─ Clean Code
-│  └─ Readable, maintainable, tested
-├─ Performance  
-│  └─ Optimized, efficient, scalable
-├─ Security
-│  └─ Validated, protected, secure
-└─ Reliability
-   └─ Tested, monitored, fault-tolerant
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayram704&show_icons=true&theme=transparent&hide_border=true" alt="Jayram's Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayram704&theme=transparent&hide_border=true" alt="Streak Stats" width="48%" />
+</p>
 
 ---
 
 <div align="center">
-
-### 🚀 Always Learning. Always Building.
-
-*Passionate about shipping production-grade systems*
-
-**Open to opportunities, collaborations, and exciting projects!**
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=jayram704&color=blue&style=flat-square)
-
-*Last updated: April 2026*
-
+  <h3>🤝 Let's Collaborate</h3>
+  <p>I am always open to discussing <b>AI Research</b>, <b>Cloud Architecture</b>, or <b>Open Source</b> opportunities.</p>
+  
+  `Code Quality` • `Scalability` • `Performance` • `Reliability`
+  
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=jayram704&color=blue&style=flat-square" alt="Views" />
 </div>
