@@ -50,14 +50,6 @@ I am a Software Engineer focused on the intersection of **Cloud Architecture** a
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayram704&show_icons=true&theme=transparent&hide_border=true" alt="Jayram's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayram704&theme=transparent&hide_border=true" alt="Streak Stats" width="48%" />
-</p>
-
----
 
 ## 💼 Professional Experience
 
