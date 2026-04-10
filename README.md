@@ -1,13 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=FF1493&center=true&vCenter=true&width=700&height=70&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+Production-Grade+Systems;PyTorch+%7C+React+%7C+FastAPI+%7C+Cloud" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=FF1493&center=true&width=800&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+Production-Grade+Systems;PyTorch+%7C+React+%7C+FastAPI" alt="Typing" />
 </div>
 <br/>
 <div align="center">
-  <a href="https://github.com/jayram-0423">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=🚀+Welcome+to+my+GitHub!;Shipping+production+grade+AI+systems" />
-  </a>
-</div>
-
 
 
 <div align="center">
