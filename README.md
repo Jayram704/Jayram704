@@ -1,1 +1,183 @@
+# 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=FF1493&center=true&width=800&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+Production-Grade+Systems;PyTorch+%7C+React+%7C+FastAPI" alt="Typing" />
+</div>
 
+<br/>
+
+<div align="center">
+  
+  # Welcome to my GitHub Profile! 👋
+  
+  > Shipping production-grade AI systems from ideation to deployment
+  
+</div>
+
+---
+
+## 👨‍💼 About Me
+
+**B.E. Computer Engineering (AI/ML)** | *A.P. Shah Institute of Technology, Thane*  
+**Graduating:** June 2026 | **Based in:** Pune, Maharashtra 🇮🇳
+
+I build **production-ready AI systems** and **full-stack applications**. Deep expertise in **reinforcement learning**, **computer vision**, and **cloud architecture**. Hackathon veteran with **5+ shipped projects**.
+
+**Philosophy:** Code quality = product quality. Every project is built to scale.
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **AI/ML & Data Science**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### **Web & Backend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 **CogniCare AI** — Healthcare Intelligence Platform
+**Nakshatra Hackathon 2026** | React • FastAPI • AI Assistant  
+- 3D landing page with interactive animations
+- Real-time hospital finder with emergency escalation
+- AI health assistant with semantic analysis
+- **Status:** ✅ Production-ready deployment
+
+### 🤖 **OpenEnv Production Guide** — Advanced RL Systems Engineering
+**Self-Published** | 27 Chapters • 50k+ Words  
+- Meta-PyTorch + Hugging Face agentic framework
+- Deployment, scaling, monitoring patterns
+- Production ML system best practices
+- **Impact:** Comprehensive reference for agentic RL
+
+### 🌱 **Green Data Center RL Environment** — Custom OpenEnv Simulation
+**FastAPI • OpenEnv • Python**  
+- Power efficiency simulation with 3-tier difficulty
+- Heuristic baseline + RL training agents
+- Realistic infrastructure modeling
+- **Tech:** Pydantic, asyncio, custom reward shaping
+
+### 💻 **NexusIDE** — Multi-Language Browser IDE
+**React • Monaco Editor • GitHub Pages**  
+- Execute C++, Python, Java, JavaScript in browser
+- Integrated AI code assistant
+- Pro subscription modal + AdSense monetization
+- **Deployment:** Zero-cost cloud strategy
+
+### 🎨 **AI Prompt Library + APIs** — Community Platform
+**React • 3D Effects • SVG**  
+- Curated prompt collection with search/filter
+- Free AI APIs showcase
+- Community contribution system
+- **Design:** Custom SVG icons, glassmorphism UI
+
+### 💹 **DDPG Portfolio Trading System** — Reinforcement Learning Finance
+**Deep Deterministic Policy Gradient • Flask • SocketIO**  
+- 10-asset allocation optimization
+- Target: Sharpe ratio > 1.5, max drawdown < 15%
+- Real-time dashboard with live charts
+- **Optimized for:** Windows/VS Code
+
+### 👤 **Face Recognition Attendance System** — Computer Vision
+**OpenCV • scikit-learn • Flask**  
+- 96.5% recognition accuracy (KNN classifier)
+- Full web application + database
+- 18-slide presentation + architecture diagrams
+- **Delivered by:** SURE Trust Initiative
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayram-0423&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=FF1493&text_color=ffffff&icon_color=FF1493)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayram-0423&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=FF1493&text_color=ffffff)
+
+</div>
+
+---
+
+## 🎓 Certifications & Training
+
+| Certification | Provider | Status |
+|---|---|---|
+| **Oracle Cloud Infrastructure (OCI)** | Oracle University | ✅ Certified |
+| **McKinsey Forward Program** | McKinsey & Company | ✅ Completed |
+| **Python Advanced Training** | SURE ProEd/SURE Trust | ✅ Completed |
+| **C++ DSA Mastery** | Self-Directed (LeetCode) | ✅ In Progress |
+| **Hackathon Experience** | Multiple Competitions | ✅ 5+ Shipped |
+
+---
+
+## 🎯 Currently Exploring
+
+- 🔬 **Advanced Agentic RL Systems** — Multi-agent reinforcement learning at scale
+- 🚀 **ML Infrastructure & DevOps** — Production ML systems, monitoring, optimization
+- 💰 **Quantitative Finance** — RL for trading, portfolio optimization, risk modeling
+- 🌐 **Full-Stack AI Apps** — Seamless LLM integration into production platforms
+- 📈 **Data Engineering** — Pipelines, streaming architectures, ETL optimization
+
+---
+
+## 💡 Key Achievements
+
+<div align="center">
+
+**🎯 5+ Hackathon Projects** | **🚀 Production Deployments** | **🤖 AI/ML Expertise** | **💻 Full-Stack Developer**
+
+**📚 50k+ Technical Documentation** | **🔬 Advanced RL Research** | **🎨 UI/UX Excellence** | **☁️ Cloud Certified**
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayram-0423)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayram/)
+[![Email](https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayram.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=globe&logoColor=white)](https://jayram-portfolio.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+
+### Always building. Always shipping. 🚀
+
+*Last updated: April 2026*
+
+</div>
